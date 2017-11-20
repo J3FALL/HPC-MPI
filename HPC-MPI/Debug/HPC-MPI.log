@@ -1,0 +1,9 @@
+﻿  HPC-MPI.cpp
+HPC-MPI.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _MPI_Send@24 т ЇєэъЎшш _main
+HPC-MPI.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _MPI_Recv@28 т ЇєэъЎшш _main
+HPC-MPI.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _MPI_Comm_size@8 т ЇєэъЎшш _main
+HPC-MPI.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _MPI_Comm_rank@8 т ЇєэъЎшш _main
+HPC-MPI.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _MPI_Init@8 т ЇєэъЎшш _main
+HPC-MPI.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _MPI_Finalize@0 т ЇєэъЎшш _main
+C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\\msmpi.lib : warning LNK4272: Єшя ъюья№■ЄхЁр сшсышюЄхъш "x64" ъюэЇышъЄєхЄ ё Єшяюь Ўхыхтюую ъюья№■ЄхЁр "x86"
+C:\Users\Gospodin\source\repos\HPC-MPI\Debug\HPC-MPI.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 6
